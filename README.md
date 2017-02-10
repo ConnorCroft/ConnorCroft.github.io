@@ -1,3 +1,3 @@
 # ConnorCroft.github.io
-# ConnorCroft.github.io/image.jpg
-# ConnorCroft.github.io/UHcdoyp.gif
+#[a relative link](ConnorCroft.github.io/image.jpg)
+# [a relative link](ConnorCroft.github.io/UHcdoyp.gif)
